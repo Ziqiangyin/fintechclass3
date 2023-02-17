@@ -8,7 +8,7 @@ right now we'er editing the file from my machine
 
 **bold font**
 
-# head 1
+# readme
 
 
 ---
@@ -17,10 +17,10 @@ files/URLs: [This is a link](www.google.com)
 
 ![elephant.jpeg](elephant.jpeg)
 
-## head 2
+## readme
 
 files/URLs: [This is a link](www.baidu.com)
 
-### head 3
+### readme
 
 files/URLs: [This is a link](www.bing.com)
